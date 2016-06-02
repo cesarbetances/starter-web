@@ -16,7 +16,7 @@ OK.
 
 ##How To Contribute
 
-ok * 2
+Please fork this.
 
 ###Copyright
 
