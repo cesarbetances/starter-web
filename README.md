@@ -17,3 +17,7 @@ OK.
 ##How To Contribute
 
 ok * 2
+
+###Copyright
+
+2014 Git.Training.
